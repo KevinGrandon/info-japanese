@@ -4,7 +4,7 @@ This repo just contains a bunch of links which might be useful for learning japa
 
 ## Dictionaries
 
-* [Jisho](http://jisho.org/) - Simple dictionary with radical and drawing input.
+* [Jisho](http://jisho.org/) - [FREE] Simple dictionary with radical and drawing input.
 
 ## Flashcards
 
@@ -12,4 +12,8 @@ This repo just contains a bunch of links which might be useful for learning japa
 
 ## Content
 
-* [Tae Kim's Guide](http://www.guidetojapanese.org/learn/) - A great resource with tons of content.
+* [Tae Kim's Guide](http://www.guidetojapanese.org/learn/) - [FREE] A great resource with tons of content.
+
+## Audio
+
+* [JapanesePod101](http://www.japanesepod101.com/) - Hundreds of japanese pod casts with lesson notes for members.
