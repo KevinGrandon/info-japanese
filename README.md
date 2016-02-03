@@ -17,3 +17,7 @@ This repo just contains a bunch of links which might be useful for learning japa
 ## Audio
 
 * [JapanesePod101](http://www.japanesepod101.com/) - Hundreds of japanese pod casts with lesson notes for members.
+
+## iOS Apps
+
+* [Japanese](https://itunes.apple.com/us/app/japanese/id290664053?mt=8) - [FREE] A full-featured English-Japanese dictionary.
