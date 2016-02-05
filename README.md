@@ -13,6 +13,8 @@ This repo just contains a bunch of links which might be useful for learning japa
 ## Content
 
 * [Tae Kim's Guide](http://www.guidetojapanese.org/learn/) - [FREE] A great resource with tons of content.
+* [Imabi](http://www.imabi.net/) - [FREE] Lots of great content for learning japanese.
+
 
 ## Audio
 
