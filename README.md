@@ -26,4 +26,8 @@ This repo just contains a bunch of links which might be useful for learning japa
 
 ## Communities
 
-* [/r/learnjapanese] - Subreddit for Japanese learners.
+* [/r/learnjapanese](https://www.reddit.com/r/learnjapanese) - Subreddit for Japanese learners.
+
+## Games
+
+* [Koe](https://www.kickstarter.com/projects/297265509/koe-a-jrpg-with-japanese-at-the-core-of-gameplay/description) [In Dev] Seemingly high quality game to learn Japanese.
