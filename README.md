@@ -23,3 +23,7 @@ This repo just contains a bunch of links which might be useful for learning japa
 ## iOS Apps
 
 * [Japanese](https://itunes.apple.com/us/app/japanese/id290664053?mt=8) - [FREE] A full-featured English-Japanese dictionary.
+
+## Communities
+
+* [/r/learnjapanese] - Subreddit for Japanese learners.
