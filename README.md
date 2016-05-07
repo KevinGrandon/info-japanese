@@ -31,3 +31,7 @@ This repo just contains a bunch of links which might be useful for learning japa
 ## Games
 
 * [Koe](https://www.kickstarter.com/projects/297265509/koe-a-jrpg-with-japanese-at-the-core-of-gameplay/description) [In Dev] Seemingly high quality game to learn Japanese.
+
+## Reading
+
+* [SatoriReader](http://satorireader.com/) [In Beta] A collection of articles in Japanese to read. Each one has multiple difficulty settings and you can click on each word for a definition.
