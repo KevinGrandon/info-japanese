@@ -9,6 +9,7 @@ This repo just contains a bunch of links which might be useful for learning japa
 ## Flashcards
 
 * [WaniKani](https://www.wanikani.com/) - SRS website for learning kanji.
+* [iKnow](https://www.iknow.jp/) - A very nice flash card system for learning languages.
 
 ## Content
 
